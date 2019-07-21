@@ -1,0 +1,21 @@
+//Variáveis
+$verde-escuro: #00695c;
+$azul-escuro: #01579b;
+$preto-claro: #333;
+$preto: #000;
+
+.bar-nav{
+    background-color: $verde-escuro;
+    
+}
+.bar-nav a{
+    color: $preto;
+}
+
+body{
+    color: red;
+}
+
+p{
+    color: red;
+}
